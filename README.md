@@ -1,11 +1,11 @@
 ## Get and display contact list
-[https://ibb.co/tXVLWyS]
+https://ibb.co/tXVLWyS
 
 ## Get contact by id
-[https://ibb.co/McNS525]
+https://ibb.co/McNS525
 
 ## Add the contact
-[https://ibb.co/GW5nFy4]
+https://ibb.co/GW5nFy4
 
 ## Delete the contact
-[https://ibb.co/hF3ndj6]
+https://ibb.co/hF3ndj6
