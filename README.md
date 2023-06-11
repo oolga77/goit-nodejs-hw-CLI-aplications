@@ -2,8 +2,7 @@
 
 
 ## Get and display contact list
-https://ibb.co/tXVLWyS /n
-https://monosnap.com/file/rqkpQ9yRBKRh1vqgJHeAZYgyH5bsO8
+https://ibb.co/tXVLWyS 
 
 ## Get contact by id
 https://ibb.co/McNS525
